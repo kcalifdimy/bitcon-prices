@@ -1,4 +1,4 @@
-![alt text](https://github.com/anuragrana/bitcoin-prices-in-python-django/blob/master/Screenshot_1.png)
+
 
 --------------------------------------------
 
@@ -15,12 +15,4 @@ A simple Django project which uses requests package to hit api and get the crypt
 - Start the server. Go to localhost:8000
 - You liked it? share the below link on your facebook wall.
 
--------------------------
-
-# How was this project developed
-Please refer this article for the steps to develop this project. https://www.pythoncircle.com/post/394/get-latest-bitcoin-and-other-crypto-currencies-rates-using-python-django/
-
--------------
-
-
-
+------------------------
